@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0164-maximum-gap) |
+| [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0164-maximum-gap) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->

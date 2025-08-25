@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

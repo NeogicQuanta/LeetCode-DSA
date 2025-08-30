@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0164-maximum-gap](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1086-divisor-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

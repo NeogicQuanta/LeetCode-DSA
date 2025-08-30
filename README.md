@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0164-maximum-gap](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [1722-throne-inheritance](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1722-throne-inheritance) |
 ## String

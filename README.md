@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0400-nth-digit) |
 | [1086-divisor-game](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1086-divisor-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0400-nth-digit](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->

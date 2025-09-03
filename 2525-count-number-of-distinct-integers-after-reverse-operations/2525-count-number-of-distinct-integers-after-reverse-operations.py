@@ -1,6 +1,5 @@
 class Solution:
-    def countDistinctIntegers(self, nums: list[int]) -> int:
-        s = set(nums)
-        for x in nums:
-            s.add(int(str(x)[::-1]))
-        return len(s)
+    def countDistinctIntegers(self, nums: List[int]) -> int:
+        for x in nums[:]:
+             nums.append(int(str(x)[::-1]))
+        return len(set(nums))

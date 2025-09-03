@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0137-single-number-ii](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->

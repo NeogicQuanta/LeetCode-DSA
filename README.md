@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [1722-throne-inheritance](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1722-throne-inheritance) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -118,5 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

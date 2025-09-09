@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0400-nth-digit) |
 | [1086-divisor-game](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1086-divisor-game) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation

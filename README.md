@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [1722-throne-inheritance](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1722-throne-inheritance) |
+| [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0214-shortest-palindrome) |
+| [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Rolling Hash
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0137-single-number-ii) |
+| [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->

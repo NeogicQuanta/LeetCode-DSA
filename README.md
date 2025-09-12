@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0214-shortest-palindrome) |
 | [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Rolling Hash
 |  |
@@ -142,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->

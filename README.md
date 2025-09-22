@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0214-shortest-palindrome](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0214-shortest-palindrome) |
 | [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

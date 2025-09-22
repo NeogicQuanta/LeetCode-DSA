@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0400-nth-digit) |
 | [1086-divisor-game](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1086-divisor-game) |

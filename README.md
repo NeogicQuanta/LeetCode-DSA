@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0400-nth-digit) |
 | [1086-divisor-game](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1086-divisor-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0326-power-of-three) |
 ## Concurrency
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 ## Linked List
 |  |

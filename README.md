@@ -85,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [1722-throne-inheritance](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [1722-throne-inheritance](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1722-throne-inheritance) |
 ## Design
 |  |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

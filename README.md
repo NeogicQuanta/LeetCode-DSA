@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1873-longest-nice-substring](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |

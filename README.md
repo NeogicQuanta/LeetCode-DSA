@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1722-throne-inheritance](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
 |  |
@@ -177,4 +178,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/NeogicQuanta/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
